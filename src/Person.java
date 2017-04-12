@@ -37,7 +37,7 @@ public class Person {
 
     @Override
     public String toString() {
-        return "Person{" +
+        return "com.luxoft.tc.java.basic.furniture.chemistry.Person{" +
                 "name='" + name + '\'' +
                 '}';
     }
