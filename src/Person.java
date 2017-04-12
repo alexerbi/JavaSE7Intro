@@ -28,9 +28,9 @@ public class Person {
     }
 
     public static void main(String[] args) {
-        Person person = new Person();
+        Person person = new Person(55);
         int age = person.getAge();
-        System.out.println(new Person().getAge());
+        System.out.println(new Person(55).getAge());
 
     }
 
