@@ -1,3 +1,5 @@
+package com.luxoft.tc.java.basic.furniture;
+
 /**
  * Created by alexjd on 12.04.2017.
  */

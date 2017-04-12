@@ -1,3 +1,5 @@
+package com.luxoft.tc.java.basic.furniture;
+
 /**
  * Created by alexjd on 11.04.2017.
  */
@@ -13,7 +15,7 @@ public class HelloWorldNew {
 
         MessageGen messageGen = new MessageGen();
 
-        System.out.println(messageGen.getMessage()); //new MessageGen()getMessage()    вот так можно дернуть метод сразу
+        System.out.println(messageGen.getMessage()); //new com.luxoft.tc.java.basic.furniture.MessageGen()getMessage()    вот так можно дернуть метод сразу
 
 int j = 0;
 ++j;

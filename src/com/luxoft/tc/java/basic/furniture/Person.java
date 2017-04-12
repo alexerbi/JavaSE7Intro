@@ -1,3 +1,5 @@
+package com.luxoft.tc.java.basic.furniture;
+
 /**
  * Created by alexjd on 11.04.2017.
  */
@@ -37,7 +39,7 @@ public class Person {
 
     @Override
     public String toString() {
-        return "com.luxoft.tc.java.basic.furniture.chemistry.Person{" +
+        return "com.luxoft.tc.java.basic.furniture.chemistry.com.luxoft.tc.java.basic.furniture.Person{" +
                 "name='" + name + '\'' +
                 '}';
     }
