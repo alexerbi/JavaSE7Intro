@@ -17,7 +17,10 @@ public class HelloWorldNew {
 
 int j = 0;
 ++j;
-        System.out.println(j);
+
+// нумерация элементов аргументов как в массиве те с 0
+        // это ведь массив args
+        System.out.println(args[0]);
     }
 
     //private static String getMessage()
